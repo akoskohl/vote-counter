@@ -28,7 +28,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## TODO:
 ✅ Set up NEXT.JS
 </br>✅ Set up firebase
-</br>✅ Configure GitHub Oath
+</br>✅ Configure GitHub OAuth
 </br>⌛ Set up Firebase auth
 </br>⬜ Create login page
 
