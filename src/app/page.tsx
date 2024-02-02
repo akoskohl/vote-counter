@@ -1,9 +1,12 @@
-import Image from "next/image";
+import firebase from 'firebase/compat/app';
+import * as firebaseui from 'firebaseui'
+import 'firebaseui/dist/firebaseui.css'
 
-export default function Home() {
+export default function Page() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-          <h1>Hello darling.</h1>
+    <main className="flex min-h-screen flex-col items-center p-24">
+      <h1 className="text-6xl">🗳️ Vote Counter</h1>
+      <div id="firebaseui-auth-container"></div>
     </main>
   );
 }
