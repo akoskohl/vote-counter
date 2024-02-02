@@ -25,3 +25,11 @@ bun dev
 ```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+## TODO:
+✅ Set up NEXT.JS
+</br>✅ Set up firebase
+</br>✅ Configure GitHub Oath
+</br>⌛ Set up Firebase auth
+</br>⬜ Create login page
+
+
