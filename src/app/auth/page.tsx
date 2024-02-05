@@ -1,3 +1,5 @@
+'use client';
+
 import firebase from "firebase/compat/app";
 import firebaseui from "firebaseui";
 
